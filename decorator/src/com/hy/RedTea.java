@@ -4,7 +4,7 @@ package com.hy;
  * @author : HY
  * @version : V1.0
  * @ClassName : RedTea
- * @Description:
+ * @Description: 被装饰者
  * @date : 2022/3/7 14:20
  */
 public class RedTea extends Tea{

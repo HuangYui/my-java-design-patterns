@@ -4,7 +4,7 @@ package com.hy;
  * @author : HY
  * @version : V1.0
  * @ClassName : RedTeaAddSaltDecorator
- * @Description:
+ * @Description: 装饰者 加盐
  * @date : 2022/3/7 14:26
  */
 public class RedTeaAddSaltDecorator extends TeaDecorator{
